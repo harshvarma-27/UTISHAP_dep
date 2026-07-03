@@ -103,7 +103,19 @@ During usage:
 * Real-time analysis with mobile integration
 
 ---
+## Future Enhancements
 
+- User authentication and authorization
+- Responsive mobile-first UI
+- Performance optimization
+- API integration and validation
+- Deployment with CI/CD pipeline
+
+## Author
+
+Harsha Vardhan Varma
+
+GitHub: https://github.com/harshvarma-27
 ## Technology Stack
 
 ### Hardware Layer
